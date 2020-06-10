@@ -1,0 +1,17 @@
+{
+  "short_name": "Food Ordering App",
+  "name": "Food Ordering App",
+  "icons": [
+    {
+      "src": "./favicon_ico/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#FFFF00"
+}
+
+
